@@ -1,4 +1,4 @@
-# WP - Learn
+# Learning Website using Wordpress
 
 ## Prerequisites
 - [Docker](https://docs.docker.com/get-docker/)
